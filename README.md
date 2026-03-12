@@ -15,6 +15,14 @@ HTML / CSS / JavaScriptで作成したカレンダーアプリです。
 
 ---
 
+## デモ動画
+
+アプリの動作はこちらの動画で確認できます。
+
+https://youtu.be/Om4OEajf9NE
+
+---
+
 ## 使用技術
 
 - HTML
